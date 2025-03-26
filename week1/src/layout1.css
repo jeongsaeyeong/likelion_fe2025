@@ -1,0 +1,43 @@
+#layout01_wrap {
+    margin: 0 auto;
+    width: 1250px;
+}
+
+header {
+    height: 100px;
+    background-color: #DE7D86;
+}
+
+.section01 {
+    height: 450px;
+}
+
+.section01 img {
+    object-fit: cover;
+}
+
+.section02 {
+    display: flex;
+}
+
+.section02>div {
+    width: 33.3%;
+    height: 430px;
+}
+
+.section02_01 {
+    background-color: #FFC5C5;
+}
+
+.section02_02{
+    background-color: #FFA3A3;
+}
+
+.section02_03 {
+    background-color: #54D8DC;
+}
+
+footer {
+    background-color: #6E6875;
+    height: 100px;
+}
